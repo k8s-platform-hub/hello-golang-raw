@@ -1,5 +1,2 @@
-description: Blank template for a Hasura project
-keywords: base, getting-started
-media: {}
-name: base
+name: hello-golang-raw
 platformVersion: v0.15.23
